@@ -28,6 +28,7 @@ In the realm of development, my passion lies primarily in front-end. It's in thi
 </div></br>
 
 For more details about my skills and my complete professional journey, I invite you to explore my full profile on LinkedIn. After all, continuous learning and growth are the main drivers of my journey in technology. Together, we are ready to tackle challenges and embrace the opportunities that the world of technology offers.
+
 ----------------------------------------------------------------------------
 
 ## Olá! Eu sou o Jeff Souza 🤓
