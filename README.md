@@ -14,7 +14,7 @@ My journey of study is a continuous drive for growth and improvement. Currently,
 
 In the realm of data analysis, I'm delving deep into the Python universe, with a special emphasis on machine learning. The ability to extract insights and create predictive models is fascinating, and I'm eager to further explore the possibilities this field offers.
 
-In the realm of development, my passion lies primarily in front-end. It's in this area that I can unleash my creativity, designing amazing and interactive user experiences. Furthermore, my interest in game development is a real fuel for my curiosity. I leverage my JavaScript skills to dive into this exciting world of gaming.
+In the realm of development, I'm thrilled to share that I'm expanding my skills in both front-end and back-end. My goal is to become a full-stack developer, capable of excelling in both areas. The versatility and challenges presented by both domains constantly drive me to seek knowledge and enhance my abilities.
 
 <div style = "display: inline_block"></br>
     <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -49,7 +49,7 @@ Minha jornada de estudos é um constante impulso para o crescimento e aprimorame
 
 No reino da análise de dados, estou mergulhando fundo no universo do Python, com uma ênfase especial em machine learning. A capacidade de extrair insights e criar modelos preditivos é fascinante, e estou ansioso para explorar ainda mais as possibilidades que essa área oferece.
 
-No âmbito do desenvolvimento, minha paixão reside principalmente no front-end. É nessa área que posso dar asas à minha criatividade, projetando experiências de usuário incríveis e interativas. Além disso, meu interesse na criação de jogos é um verdadeiro combustível para minha curiosidade. Eu aproveito minhas habilidades em JavaScript para mergulhar nesse empolgante mundo dos games.
+No âmbito de desenvolvimento, estou super empolgado em compartilhar que estou expandindo minhas habilidades tanto para o front-end quanto para o back-end. Meu objetivo é me tornar um desenvolvedor full-stack, capaz de atuar com maestria em ambas as áreas. A versatilidade e os desafios que ambas as áreas oferecem me motivam constantemente a buscar conhecimento e aprimorar minhas competências.
 
 <div style = "display: inline_block"></br>
     <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
