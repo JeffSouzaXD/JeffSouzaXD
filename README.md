@@ -8,7 +8,7 @@ I'm a junior database analyst. My passion for programming is only rivaled by my 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeffsouzaxd?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JeffSouzaXD?t=6-hTO6M8GmsKEecTNLquyQ&s=09)
 
-## HardSkills:
+### HardSkills:
 
 My journey of study is a continuous drive for growth and improvement. Currently, my focus is on two exciting fields: development and data analysis.
 
@@ -43,7 +43,7 @@ Sou um analista de banco de dados júnior. Minha paixão por programação é eq
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeffsouzaxd?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JeffSouzaXD?t=6-hTO6M8GmsKEecTNLquyQ&s=09)
 
-## HardSkills:
+### HardSkills:
 
 Minha jornada de estudos é um constante impulso para o crescimento e aprimoramento. Atualmente, minha atenção está voltada para dois campos empolgantes: desenvolvimento e análise de dados.
 
