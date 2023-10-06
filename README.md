@@ -29,7 +29,7 @@ In the realm of development, I'm thrilled to share that I'm expanding my skills 
     <img align_item ="center" alt = ".NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 </div></br>
 
-On my LinkedIn, you'll discover a deep dive into my journey in the field of technology. I invite you to join me on an exciting adventure of discoveries and enthusiasm in the world of tech. After all, continuous learning and growth are the main drivers of my journey in technology. Together, we are ready to tackle challenges and embrace the opportunities that the world of technology offers.
+In my social media, you'll discover a deep dive into my journey in the field of technology. I invite you to join me on an exciting adventure of discoveries and enthusiasm in the world of tech. After all, continuous learning and growth are the main drivers of my journey in technology. Together, we are ready to tackle challenges and embrace the opportunities that the world of technology offers.
 
 ----------------------------------------------------------------------------
 
@@ -64,5 +64,4 @@ No âmbito de desenvolvimento, estou super empolgado em compartilhar que estou e
     <img align_item ="center" alt = ".NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 </div></br>
 
-No meu LinkedIn, você encontrará um mergulho profundo no meu desenvolvimento na área de tecnologia. Lá, convido você a se juntar a mim em uma jornada emocionante de descobertas e empolgação no mundo da tecnologia. Afinal, o aprendizado contínuo e a evolução são os principais motores do meu percurso na tecnologia. Juntos, estamos prontos para enfrentar os desafios e abraçar as oportunidades que o mundo da tecnologia oferece.
-
+Nas minhas redes sociais, você encontrará um mergulho profundo no meu desenvolvimento na área de tecnologia. Lá, convido você a se juntar a mim em uma jornada emocionante de descobertas e empolgação no mundo da tecnologia. Afinal, o aprendizado contínuo e a evolução são os principais motores do meu percurso na tecnologia. Juntos, estamos prontos para enfrentar os desafios e abraçar as oportunidades que o mundo da tecnologia oferece.
