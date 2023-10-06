@@ -25,6 +25,8 @@ In the realm of development, my passion lies primarily in front-end. It's in thi
     <img align_item ="center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align_item ="center" alt = "React" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align_item ="center" alt = "PostgreeSQL" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+    <img align_item ="center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/> 
+    <img align_item ="center" alt = ".NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 </div></br>
 
 For more details about my skills and my complete professional journey, I invite you to explore my full profile on LinkedIn. After all, continuous learning and growth are the main drivers of my journey in technology. Together, we are ready to tackle challenges and embrace the opportunities that the world of technology offers.
@@ -58,6 +60,8 @@ No âmbito do desenvolvimento, minha paixão reside principalmente no front-end.
     <img align_item ="center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align_item ="center" alt = "React" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align_item ="center" alt = "PostgreeSQL" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+    <img align_item ="center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/> 
+    <img align_item ="center" alt = ".NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 </div></br>
 
 Para obter mais detalhes sobre minhas habilidades e minha jornada profissional completa, convido você a explorar meu perfil completo no LinkedIn. Afinal, o aprendizado contínuo e a evolução são os principais motores do meu percurso na tecnologia. Juntos, estamos prontos para enfrentar os desafios e abraçar as oportunidades que o mundo da tecnologia oferece.
