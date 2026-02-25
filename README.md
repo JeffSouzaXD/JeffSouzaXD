@@ -11,7 +11,7 @@ My interpersonal skills include excellent teamwork, a passion for challenges, an
 <div style = "display: inline_block">
     <img align_item ="center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align_item ="center" alt = "MongoDB" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-    <img align_item ="center" alt = "DJango" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
+    <img align_item ="center" alt = "AWS" src = "https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/> 
     <img align_item ="center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/> 
     <img align_item ="center" alt = ".NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 </div>
