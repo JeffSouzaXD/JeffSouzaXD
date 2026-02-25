@@ -1,6 +1,7 @@
 ## Hello! I'm Jeff Souza 🤓
 
-Welcome to my GitHub! Here, you'll find a collection of projects developed during my studies in various technologies. I'm passionate about Data, development, and particularly about Machine Learning. Currently immersed in data analysis, where I found my love for this field. Besides tech, my free time is dedicated to video games, RPGs, and spending time with my lovely dogs. 😊🚀
+Welcome to my GitHub! 🚀
+Here you’ll find projects that represent my journey as a Data Professional, with strong experience in data engineering, analytics, and a growing focus on Machine Learning. I build data-driven solutions, developing pipelines, automations, and analyses that create real business impact. Currently, I am deeply focused on applying Machine Learning techniques to build predictive models, classification systems, clustering solutions, and intelligent data products. I enjoy working with data end-to-end from raw data processing to modeling and generating strategic insights. Beyond technology, I spend my free time playing video games, RPGs, and enjoying moments with my dogs. 😊
 
 ## SoftSkills:
 
@@ -36,7 +37,8 @@ On my social media, you'll delve into my tech journey and catch glimpses of my d
 
 ## Olá! Eu sou o Jeff Souza 🤓
 
-Seja muito bem-vindo ao meu GitHub! Aqui, você encontrará uma coleção de projetos desenvolvidos durante meus estudos em diversas tecnologias. Sou um entusiasta de Dados, desenvolvimento e especialmente de Machine Learning. Atualmente, mergulho na análise de dados, onde descobri minha paixão por essa área. Além da tecnologia, meu tempo livre é dedicado aos jogos de videogame, RPG e aos momentos com meus adoráveis cachorrinhos.😊🚀
+Seja muito bem-vindo ao meu GitHub! 🚀
+Aqui você encontrará projetos que refletem minha trajetória como Profissional de Dados, com foco em engenharia, análise e, principalmente, Machine Learning. Atuo desenvolvendo soluções orientadas a dados, criando pipelines, automações e análises que geram impacto real no negócio. Atualmente, meu foco está em aprofundar e aplicar técnicas de Machine Learning para construção de modelos preditivos, classificação, clusterização e soluções inteligentes baseadas em dados. Gosto de acompanhar o dado de ponta a ponta da coleta e tratamento até a modelagem e geração de insights estratégicos. Além da tecnologia, meu tempo livre é dedicado aos videogames, RPG e aos momentos com meus cachorrinhos. 😊
 
 ## SoftSkills:
 Minhas habilidades interpessoais incluem um excelente trabalho em equipe, uma paixão por desafios e uma sede constante por novos conhecimentos. Estou sempre pronto para aprender algo novo e enfrentar os desafios com determinação.
@@ -45,18 +47,16 @@ Minhas habilidades interpessoais incluem um excelente trabalho em equipe, uma pa
 
 ### Estou estudando:
 <div style = "display: inline_block">
-    <img align_item ="center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align_item ="center" alt = "MongoDB" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-    <img align_item ="center" alt = "DJango" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-    <img align_item ="center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/> 
+    <img align_item ="center" alt = "JAVA" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
     <img align_item ="center" alt = ".NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 </div>
 
 ### Já domino: 
 <div style = "display: inline_block">
-    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "PL/SQL" src = "https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000"/>
+    <img align_item ="center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align_item ="center" alt = "AWS" src = "https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/> 
     <img align_item ="center" alt = "PostgreeSQL" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
     <img align_item ="center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
     <img align_item ="center" alt = "Oracle" src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
